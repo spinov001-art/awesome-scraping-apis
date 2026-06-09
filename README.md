@@ -1,12 +1,12 @@
 # 🕷️ Awesome Web Scraping APIs
 
-> A curated list of APIs that give you structured data without building scrapers. Stop writing CSS selectors — use these instead.
+> A curated list of APIs that give you structured data without building scrapers. Stop writing CSS selectors - use these instead.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Why This List?
 
-Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. These APIs give you the same data — structured, reliable, and legal.
+Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. These APIs give you the same data - structured, reliable, and legal.
 
 ## 📊 Social Media APIs
 
@@ -14,6 +14,7 @@ Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. T
 |-----|------|-----------|------|
 | [Reddit API](https://www.reddit.com/dev/api/) | Posts, comments, subreddits | 60 req/min | OAuth |
 | [Twitter/X API](https://developer.twitter.com/) | Tweets, users, trends | 500K tweets/mo | OAuth 2.0 |
+| [Xquik](https://docs.xquik.com/) | X/Twitter search, user data, extractions | Paid plans | API Key |
 | [YouTube Data API](https://developers.google.com/youtube/v3) | Videos, channels, comments | 10K units/day | API Key |
 | [Bluesky API](https://docs.bsky.app/) | Posts, feeds, profiles | Unlimited | JWT |
 | [Mastodon API](https://docs.joinmastodon.org/api/) | Toots, users, timelines | Unlimited | OAuth |
@@ -82,19 +83,19 @@ Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. T
 
 Don't want to code? Use these ready-made scrapers:
 
-- **[Apify Store](https://apify.com/store)** — 2,000+ pre-built scrapers for any website
-  - [Reddit Scraper](https://apify.com/Spinov001) — Scrape Reddit posts & comments
-  - [YouTube Scraper](https://apify.com/store) — Extract video data
-  - [Google Maps Scraper](https://apify.com/store) — Business listings extraction
-- **[Octoparse](https://www.octoparse.com/)** — Visual scraping tool
-- **[ParseHub](https://www.parsehub.com/)** — Point-and-click scraper
+- **[Apify Store](https://apify.com/store)** - 2,000+ pre-built scrapers for any website
+  - [Reddit Scraper](https://apify.com/Spinov001) - Scrape Reddit posts & comments
+  - [YouTube Scraper](https://apify.com/store) - Extract video data
+  - [Google Maps Scraper](https://apify.com/store) - Business listings extraction
+- **[Octoparse](https://www.octoparse.com/)** - Visual scraping tool
+- **[ParseHub](https://www.parsehub.com/)** - Point-and-click scraper
 
 ## 🧑‍💻 Building Custom API Clients?
 
 Check these starter templates:
-- [Python API Client Template](https://github.com/Spinov001/python-api-client-template) — Production-ready Python wrapper
-- [Awesome Government APIs](https://github.com/Spinov001/awesome-government-apis) — Free government data sources
-- [Awesome Financial APIs](https://github.com/Spinov001/awesome-financial-apis) — Market data for free
+- [Python API Client Template](https://github.com/Spinov001/python-api-client-template) - Production-ready Python wrapper
+- [Awesome Government APIs](https://github.com/Spinov001/awesome-government-apis) - Free government data sources
+- [Awesome Financial APIs](https://github.com/Spinov001/awesome-financial-apis) - Market data for free
 
 ## Contributing
 
