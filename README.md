@@ -40,6 +40,7 @@ Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. T
 | [BuiltWith](https://api.builtwith.com/) | Technology profiling | 1 lookup free | API Key |
 | [Crunchbase](https://data.crunchbase.com/) | Startup funding data | Limited | API Key |
 | [OpenCorporates](https://api.opencorporates.com/) | Company registrations | 500 req/day | API Key |
+| [Datacircle](https://datacircle.dev) ([API](https://api.datacircle.dev/v1)) | Benchmarks of every GTM API, best one for each | No limit | None |
 
 ## 🌍 Web Data APIs
 
