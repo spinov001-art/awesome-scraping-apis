@@ -40,6 +40,7 @@ Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. T
 | [BuiltWith](https://api.builtwith.com/) | Technology profiling | 1 lookup free | API Key |
 | [Crunchbase](https://data.crunchbase.com/) | Startup funding data | Limited | API Key |
 | [OpenCorporates](https://api.opencorporates.com/) | Company registrations | 500 req/day | API Key |
+| [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) | Official company social links | Apify free tier | API Key |
 
 ## 🌍 Web Data APIs
 
@@ -77,6 +78,8 @@ Web scraping is fragile. Sites change their HTML, add CAPTCHAs, block your IP. T
 | [Keepa](https://keepa.com/#!api) | Amazon price tracking | 1 token/min | API Key |
 | [Rainforest](https://www.rainforestapi.com/) | Amazon product data | 100 req free | API Key |
 | [Price API](https://www.priceapi.com/) | Multi-store price tracking | Trial | API Key |
+| [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) | Etsy search: price, rating, ads, rank | Apify free tier | API Key |
+| [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) | Etsy shop daily and 28-day sales | Apify free tier | API Key |
 
 ## 🔧 Pre-Built Scrapers (No Code)
 
